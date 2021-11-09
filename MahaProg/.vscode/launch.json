@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch floydstriangle26",
+            "request": "launch",
+            "mainClass": "floydstriangle26",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch pascaltriangle25",
+            "request": "launch",
+            "mainClass": "pascaltriangle25",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch pyramidnub23",
+            "request": "launch",
+            "mainClass": "pyramidnub23",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch invertedpyramid24",
+            "request": "launch",
+            "mainClass": "invertedpyramid24",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch pyramid",
+            "request": "launch",
+            "mainClass": "pyramid",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch inverted21",
+            "request": "launch",
+            "mainClass": "inverted21",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch invertedpyramid20",
+            "request": "launch",
+            "mainClass": "invertedpyramid20",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch hpyramidalphabet19",
+            "request": "launch",
+            "mainClass": "hpyramidalphabet19",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch printalphabets13",
+            "request": "launch",
+            "mainClass": "printalphabets13",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch halfpyramid18",
+            "request": "launch",
+            "mainClass": "halfpyramid18",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch halfpyramid17",
+            "request": "launch",
+            "mainClass": "halfpyramid17",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrong16",
+            "request": "launch",
+            "mainClass": "armstrong16",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome15",
+            "request": "launch",
+            "mainClass": "palindrome15",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime14",
+            "request": "launch",
+            "mainClass": "prime14",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch multipli10",
+            "request": "launch",
+            "mainClass": "multipli10",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum9",
+            "request": "launch",
+            "mainClass": "sum9",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch fact8",
+            "request": "launch",
+            "mainClass": "fact8",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch alphabet7",
+            "request": "launch",
+            "mainClass": "alphabet7",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch large6",
+            "request": "launch",
+            "mainClass": "large6",
+            "projectName": "VSCode_202bbca9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch vowel",
+            "request": "launch",
+            "mainClass": "vowel",
+            "projectName": "VSCode_202bbca9"
+        }
+    ]
+}
