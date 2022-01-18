@@ -1,0 +1,37 @@
+// Arraylist12 Question- Extreact a portion of an Array list:-
+import java.util.*;
+public class ArrayList12 {
+    public static void main(String[] args) {
+        List<String> l = new ArrayList<String>();
+      l.add("English");
+      l.add("Hindi");
+      l.add("Math");
+      l.add("Science");
+      l.add("Telugu");
+      System.out.println("Original list:"+ l);
+      List<String> sub_List = l.subList(0,3);
+      System.out.println("List of first three elements:" +sub_List);
+    }
+    
+} 
+
+
+//ArrayList14 Question- To empty an array list
+/*import java.util.*;
+public class ArrayList12 {
+    public static void main(String[] args) {
+        List<String> l = new ArrayList<String>();
+      l.add("English");
+      l.add("Hindi");
+      l.add("Math");
+      l.add("Science");
+      l.add("Telugu");
+      System.out.println("Original list:"+ l);
+      l.removeAll(l);                                                 //l.removeAll(l)  - to empty an array list
+       System.out.println( "List after removing all elements:" +l);
+    }
+}    */
+
+      
+
+
